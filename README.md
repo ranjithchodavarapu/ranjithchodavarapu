@@ -1,4 +1,4 @@
-### Hi there, I'm Ranjith-  [ranjithchodavarapu][website] 👋
+### Hi there, I'm Ranjith-👋 :computer:
 
 I'm **Ranjith CH**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
 
