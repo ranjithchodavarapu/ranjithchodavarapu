@@ -10,7 +10,7 @@ I'm **Ranjith CH**, a **Deep Learning** and **Machine Learning** **Practitioner*
 - ⚡ Fun fact: I love to listen music and play badmition
 
 
-### ### Find me around:
+ ### Find me around:
 - [LinkedIn](https://www.linkedin.com/in/ranjith-ch-404537151/) :earth_asia:
 - [Mail](https://www.linkedin.com/in/ranjith-ch-404537151/) :email:
 
