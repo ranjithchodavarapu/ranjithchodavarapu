@@ -3,7 +3,7 @@
 I'm **Ranjith CH**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
 
 
-- 🔭 I’m currently working on supervised learning
+- 🔭 I’m currently working on Machine learning
 - 🌱 I’m currently learning from [youtube](https://www.youtube.com/), [Kaggle](https://www.kaggle.com/) and [cognitive.ai](https://cognitiveclass.ai).
 - 🤔 I’m looking for someone to teach   **Computer Vision** and **Deep Learning**.
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/ranjith-ch-404537151/)
