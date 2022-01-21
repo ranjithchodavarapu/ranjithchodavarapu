@@ -1,17 +1,17 @@
 ### Hi there, I'm Ranjith-👋 :computer:
 
-I'm **Ranjith CH**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
+I'm **Ranjith Chodavarapu**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
 
 
-- 🔭 I’m currently working on Machine learning
-- 🌱 I’m currently learning from [youtube](https://www.youtube.com/), [Kaggle](https://www.kaggle.com/) and [cognitive.ai](https://cognitiveclass.ai).
-- 🤔 I’m looking for someone to teach   **Computer Vision** and **Deep Learning**.
-- 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/ranjith-ch-404537151/)
+- 🔭 I’m currently working on Machine learning and Deep Learning 
+- 🌱 I’m currently learning from [youtube](https://www.youtube.com/), [Kaggle](https://www.kaggle.com/) and [] .
+- 🤔 I’m looking for someone to teach   **Computer Vision** and **Big Data**.
+- 📫 How to reach me: [Connect/Message](linkedin.com/in/ranjith-chodavarapu-404537151/)
 - ⚡ Fun fact: I love to listen music and play badmition
 
 
  ### Find me around:
-- [LinkedIn](https://www.linkedin.com/in/ranjith-ch-404537151/) :earth_asia:
+- [LinkedIn](linkedin.com/in/ranjith-chodavarapu-404537151/) :earth_asia:
 - [Mail](https://www.linkedin.com/in/ranjith-ch-404537151/) :email:
 
 
