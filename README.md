@@ -12,7 +12,7 @@ I'm **Ranjith Chodavarapu**, a **Deep Learning** and **Machine Learning** **Prac
 
  ### Find me around:
 - [LinkedIn](https://linkedin.com/in/ranjith-chodavarapu-404537151/) :earth_asia:
-- [Mail](ranjithch1999@gmail.com) :email:
+
 
 
 <br/>
