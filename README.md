@@ -6,6 +6,7 @@ I'm **Ranjith Chodavarapu**, a **Deep Learning** and **Machine Learning**  **Pra
 - 🔭 I’m currently working on Machine learning and Deep Learning 
 - 🌱 I’m currently learning from [youtube](https://www.youtube.com/), [Kaggle](https://www.kaggle.com/)  .
 - 🤔 I’m looking for someone to teach   **Computer Vision** , **Big Data** and **Few Deep Learning Techinques**
+- 🌱 I’m currently pursuing my master's in computational data science concentration
 - 📫 How to reach me: [Connect/Message](https://linkedin.com/in/ranjith-chodavarapu-404537151/)
 - ⚡ Fun fact: I love to listen music and play badmition
 
