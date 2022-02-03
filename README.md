@@ -19,7 +19,7 @@ I'm **Ranjith Chodavarapu**, a **Deep Learning** and **Machine Learning** **Prac
 
 ## **Language and Tools**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithchodavarapu&theme=radical)
-![Ranjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranjithchodavarapu&hide=prs,issues,contribs?username=ranjithchodavarapu&count_private=true?username=ranjithchodavarapu&show_icons=true&theme=radical)
+
 
 
 
