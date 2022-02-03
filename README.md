@@ -5,14 +5,14 @@ I'm **Ranjith Chodavarapu**, a **Deep Learning** and **Machine Learning** **Prac
 
 - 🔭 I’m currently working on Machine learning and Deep Learning 
 - 🌱 I’m currently learning from [youtube](https://www.youtube.com/), [Kaggle](https://www.kaggle.com/)  .
-- 🤔 I’m looking for someone to teach   **Computer Vision** and **Big Data**.
+- 🤔 I’m looking for someone to teach   **Computer Vision** , **Big Data** and **Few Deep Learning Techinques **
 - 📫 How to reach me: [Connect/Message](https://linkedin.com/in/ranjith-chodavarapu-404537151/)
 - ⚡ Fun fact: I love to listen music and play badmition
 
 
  ### Find me around:
 - [LinkedIn](https://linkedin.com/in/ranjith-chodavarapu-404537151/) :earth_asia:
-- [Mail](https://www.linkedin.com/in/ranjith-ch-404537151/) :email:
+- [Mail](ranjithch1999@gmail.com) :email:
 
 
 <br/>
