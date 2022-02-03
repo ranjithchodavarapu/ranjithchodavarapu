@@ -1,6 +1,6 @@
 ### Hi there, I'm Ranjith -👋 :computer:
 
-I'm **Ranjith Chodavarapu**, a **Deep Learning** and **Machine Learning** **Practitioner** and **Learner**.
+I'm **Ranjith Chodavarapu**, a **Deep Learning** and **Machine Learning**  **Practitioner** and **Learner**.
 
 
 - 🔭 I’m currently working on Machine learning and Deep Learning 
