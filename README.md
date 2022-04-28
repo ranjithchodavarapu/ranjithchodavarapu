@@ -18,8 +18,7 @@ I'm **Ranjith Chodavarapu**, a **Deep Learning** and **Machine Learning**  **Pra
 
 <br/>
 
-## **Language and Tools**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithchodavarapu&theme=radical)
+
 
 
 
