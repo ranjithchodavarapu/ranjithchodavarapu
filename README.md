@@ -5,7 +5,7 @@ I'm **Ranjith Chodavarapu**, a **Deep Learning** and **Machine Learning**  **Pra
 
 - 🔭 I’m currently working on Image Segmentation on medical data  
 - 🌱 I’m currently learning from [youtube](https://www.youtube.com/), [Kaggle](https://www.kaggle.com/)  .
-- 🤔 I’m looking for someone to teach  **Cloud computing in security**
+- 🤔 I’m looking for someone to teach  ** Security in Cloud computing **
 - 🌱 Completed my masters' in computational data science concentration
 - 📫 How to reach me: [Connect/Message](https://linkedin.com/in/ranjith-chodavarapu/)
 - ⚡ Fun fact: I love to listen music and play badmition
