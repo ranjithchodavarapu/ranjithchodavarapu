@@ -3,16 +3,18 @@
 I'm **Ranjith Chodavarapu**, an **Artificial Intelligence researcher and practitioner** specializing in **LLM inference reliability** and **numerical precision in transformer systems**.
 
 * 🔭 **Currently working on:**
-  *KV cache divergence in FP16 inference* — characterizing systematic numerical non-equivalence between cache-enabled and cache-disabled execution paths in autoregressive transformers
+  *Structured Failure Under Greedy Decoding: Reasoning Instability in Large Language Models Across Prompting Strategies* —  Kent State University
 
 * 📄 **Latest research:**
-  *The Illusion of Equivalence: Systematic FP16 Divergence in KV-Cached Autoregressive Inference* — Kent State University
+  *The Illusion of Equivalence: Systematic FP16 Divergence in KV-Cached Autoregressive Inference* — characterizing systematic numerical non-equivalence between cache-enabled and cache-disabled execution paths in autoregressive transformers
 
 * 🔬 **Ongoing research directions:**
 
   * Direct KV cache tensor patching for causal localization
   * KV cache divergence under compression (quantization, eviction, low-rank methods)
-  * Numerical error vs. bifurcation behavior in transformer inference
+  * evaluate alternative mechanisms, including periodic cache refresh, and smoothed updates to identify practical solutions.
+  * Investigate cache internals by instrumenting the cache lifecycle to track memory growth and error accumulation,
+  * Numerical error accumulation and  bifurcation point in transformer inference
 
 * 🧪 **Research interests:**
   LLM inference reliability, floating-point precision, and mechanistic interpretability
