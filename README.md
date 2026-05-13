@@ -20,7 +20,8 @@ I'm **Ranjith Chodavarapu**, an **Artificial Intelligence researcher and practit
   LLM inference reliability, floating-point precision, and mechanistic interpretability
 
 * 🎓 **Education:**
-  M.S. in Computer Science — Kent State University
+  M.S. in Computer Science — Kent State University (Done)
+  PhD in Computer Science - Kent State University (Current)
 
 * ⚡ **Fun fact:**
   I enjoy music and playing badminton
