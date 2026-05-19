@@ -35,6 +35,7 @@ I'm **Ranjith Chodavarapu**, an **Artificial Intelligence researcher and practit
 * Instagram: https://www.instagram.com/ranjithchodavarapu__/
 * Google Scholar: https://scholar.google.com/citations?user=UCLj7CAAAAAJ&hl=en
 * X account: https://x.com/RanjithChodava
+* Github: https://github.com/ranjithchodavarapu
 
 
 
