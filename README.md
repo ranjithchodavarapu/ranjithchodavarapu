@@ -3,7 +3,7 @@
 I'm **Ranjith Chodavarapu**, an **Artificial Intelligence researcher and practitioner** specializing in **LLM inference reliability** and **numerical precision in transformer systems**.
 
 * 🔭 **Currently working on:**
-  *Structured Failure Under Greedy Decoding: Reasoning Instability in Large Language Models Across Prompting Strategies* —  Kent State University
+  *Deterministic Failure Under Greedy Decoding: Model-Specific Error Patterns Across Prompting Strategies* —  Kent State University
 
 * 📄 **Latest research:**
   *The Illusion of Equivalence: Systematic FP16 Divergence in KV-Cached Autoregressive Inference* — characterizing systematic numerical non-equivalence between cache-enabled and cache-disabled execution paths in autoregressive transformers
